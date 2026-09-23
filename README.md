@@ -2443,6 +2443,7 @@ When developing server applications, [different API formats](https://youtu.be/4v
     -   Certificate configuration and installation
         > You need to know how to generate certificates and install them properly to make your server work over HTTPS.
     -   [Handshake process](https://en.wikipedia.org/wiki/Transport_Layer_Security#TLS_handshake)
+    - [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
         > To establish a secure connection between the client and the server, a special process must take place which includes the exchange of secret keys and information about encryption algorithms.
 
 <details>
